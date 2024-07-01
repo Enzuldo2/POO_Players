@@ -1,1 +1,1 @@
-Trabalho final de POO, Trata-se de um sistema de avaliação e armazenamento de jogadores em um arquivo, Podendo os mesmos serem Inseridos, Removidos, Atualizados e Guardados.
+Final POO work. This is a system for evaluating and storing players in a file, which can be Inserted, Removed, Updated and Saved.
